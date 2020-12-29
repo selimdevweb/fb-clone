@@ -1,0 +1,19 @@
+.fb-page{
+    width: 340px;
+    border: none;
+    overflow: hidden;
+}
+.widgets{
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+._2lqg {
+    background: #131516 !important;
+    border: none !important;
+    overflow-y: hidden !important;
+}
+._2ph- {
+    padding: 0px;
+}
